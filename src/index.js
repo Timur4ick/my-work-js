@@ -1,1 +1,3 @@
-console.log("HELLO");
+const x = 5;
+
+console.log("index:", x);
